@@ -26,3 +26,5 @@ $ python main.py
 
 - Click Simulation Button to conduct simulations of how to move
 
+<a href="https://imgur.com/fCgpFs8"><img src="https://i.imgur.com/fCgpFs8.gif" title="source: imgur.com" /></a>
+
