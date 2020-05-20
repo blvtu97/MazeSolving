@@ -1,4 +1,4 @@
-# MazeSolving
+# Maze Game
 
 # Running
 
